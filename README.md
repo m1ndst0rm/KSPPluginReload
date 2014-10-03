@@ -12,7 +12,7 @@ Notice:
 
 Installation
 ------------
-1. download latest build (tawot.com/KSPPluginReload.zip) or build from source and extract to ksp directory.
+1. download latest build and extract to ksp directory:
 2. edit Settings.cfg in "\GameData\PluginReload". 
 3. open AssemblyInfo.cs in your project and change AssemblyVersion & AssemblyFileVersion to "1.0.0.*". Visual Studio will auto-increment your build, this is the only way to allow reloading of a DLL.
 

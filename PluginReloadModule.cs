@@ -15,7 +15,7 @@ using KSPPluginReload.UI;
 using UnityEngine;
 
 
-[KSPAddon(KSPAddon.Startup.MainMenu, true)]
+[KSPAddon(KSPAddon.Startup.Instantly, true)]
 public class KSPPluginReloadModule : MonoBehaviour
 {
     public KSPPluginReloadModule()
